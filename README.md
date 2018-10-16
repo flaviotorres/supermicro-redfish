@@ -1,2 +1,2 @@
-# supermicro-redfish
-RedFish Supermicro user operations
+# supermicro
+Scripts to add or update accounts
