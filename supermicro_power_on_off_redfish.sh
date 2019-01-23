@@ -23,3 +23,4 @@ curl -si -u $USER:$PASS -k -XGET https://$SERVER/redfish/v1/Systems/1/
                 "Nmi",
                 "ForceOn"
             ]
+# http://redfish.dmtf.org/schemas/DSP0266_1.0.html
